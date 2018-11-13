@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get ("/apple") do
-  "Here's a string"
+  "<h1>Here's a string</h1>"
 end
